@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://nachunafsi.github.io/my-valentine-s-dream-main",
+  "homepage": "https://nachunafsi.github.io/nachunafsi-my-valentine-s-dream-main",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
