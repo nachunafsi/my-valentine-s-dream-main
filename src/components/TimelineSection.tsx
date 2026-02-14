@@ -17,7 +17,7 @@ const milestones = [
       icon: "💍",
     title: "When I Proposed",
     date: "♡ 29 January 2023 ♡",
-    description: "The most nerve-wracking and magical moment — when you said yes and made me the happiest person alive.",
+    description: "The day our hearts spoke the same language — when we truly felt and understood that this was love, and our journey together began.",
   },
   {
     icon: "📍",
